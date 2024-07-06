@@ -8565,6 +8565,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 141775607591631381, guid: d7b0b8e86c5e66f4c99415e727a23617, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 141775607591631381, guid: d7b0b8e86c5e66f4c99415e727a23617, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1920
+      objectReference: {fileID: 0}
+    - target: {fileID: 141775607591631381, guid: d7b0b8e86c5e66f4c99415e727a23617, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1080
+      objectReference: {fileID: 0}
     - target: {fileID: 141775607591631383, guid: d7b0b8e86c5e66f4c99415e727a23617, type: 3}
       propertyPath: m_Pivot.x
       value: 0

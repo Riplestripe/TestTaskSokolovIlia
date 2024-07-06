@@ -19,6 +19,8 @@ public class BulletPlayer : MonoBehaviour
 
     private void Update()
     {
-        Destroy (this.gameObject,1);
+        Destroy (this.gameObject,0.5f);
     }
+
+
 }
